@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: GMTools
+## Notes: Custom slash command addon
+## Author: larreh
+## Version: 1.0
+
+UnbindFunctions.lua
+GMTools.lua
